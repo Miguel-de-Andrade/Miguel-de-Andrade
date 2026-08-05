@@ -73,11 +73,11 @@
 
 <div align="center">
 
-<a href="https://github.com/Miguel-de-Andrade/Teste-Versionamento">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Miguel-de-Andrade&repo=Teste-Versionamento&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Miguel-de-Andrade/teste-versionamento">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Miguel-de-Andrade&repo=teste-versionamento&theme=tokyonight&hide_border=true"/>
 </a>
-<a href="https://github.com/Miguel-de-Andrade/Limiar-Site">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Miguel-de-Andrade&repo=Limiar-Site&theme=tokyonight&hide_border=true"/>
+<a href="https://github.com/Miguel-de-Andrade/Limiar_Site">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=Miguel-de-Andrade&repo=Limiar_Site&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
