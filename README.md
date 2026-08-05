@@ -66,9 +66,7 @@ Utilizo o GitHub para organizar projetos acadêmicos, exercícios e estudos pess
 <a href="https://github.com/Miguel-de-Andrade">
 <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/">
-<img src="https://img.shields.io/badge/LinkedIn-0072FF?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+
 <a href="https://www.instagram.com/migui.andr">
 <img src="https://img.shields.io/badge/Instagram-00C6FF?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
