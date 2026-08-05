@@ -42,9 +42,6 @@ Utilizo o GitHub para organizar projetos acadêmicos, exercícios e estudos pess
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,idea,vscode)](https://skillicons.dev)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Miguel-de-Andrade&show_icons=true&theme=tokyonight"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-de-Andrade&layout=compact&theme=tokyonight"/>
 
 </div>
 
