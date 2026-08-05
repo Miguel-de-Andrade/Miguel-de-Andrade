@@ -2,13 +2,13 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:F09819&height=220&section=header&text=Miguel%20de%20Andrade&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas&descAlignY=55&descSize=18)
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F09819&center=true&vCenter=true&width=650&lines=Sempre+evoluindo+um+commit+por+vez&repeat=false)
-
 <img src="https://komarev.com/ghpvc/?username=Miguel-de-Andrade&color=F09819&style=flat&label=Visualiza%C3%A7%C3%B5es+do+perfil" alt="Visitor Badge"/>
 
 </div>
 
 ---
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=Meu+nome+%C3%A9+Miguel%2C+estudante+na+Etec+da+Zona+Leste&repeat=false)
 
 ### Sobre mim
 
@@ -18,6 +18,8 @@
 - Sempre em busca do próximo conceito para aprender
 
 ---
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=Linguagens+que+uso+no+dia+a+dia&repeat=false)
 
 ### Linguagens
 
@@ -29,6 +31,10 @@
 ![JS](https://skillicons.dev/icons?i=js)
 
 </div>
+
+---
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=Ferramentas+que+fazem+parte+do+meu+fluxo&repeat=false)
 
 ### Ferramentas
 
@@ -43,6 +49,8 @@
 
 ---
 
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=Minhas+estrelas+e+seguidores&repeat=false)
+
 ### Perfil no GitHub
 
 <div align="center">
@@ -53,6 +61,8 @@
 </div>
 
 ---
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=Projetos+que+j%C3%A1+desenvolvi&repeat=false)
 
 ### Projetos em destaque
 
