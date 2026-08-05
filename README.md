@@ -1,7 +1,5 @@
 <div align="center">
 
-
-
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:F09819&height=220&section=header&text=Miguel%20de%20Andrade&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas&descAlignY=55&descSize=18)
 
 <img src="https://komarev.com/ghpvc/?username=Miguel-de-Andrade&color=F09819&style=for-the-badge&label=Visualizações" />
@@ -46,24 +44,11 @@ Utilizo o GitHub para organizar projetos acadêmicos, exercícios e estudos pess
 
 ---
 
-## Estatísticas
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Miguel-de-Andrade&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-de-Andrade&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 ## GitHub
 
 <div align="center">
 
 [![Followers](https://img.shields.io/github/followers/Miguel-de-Andrade?style=for-the-badge&color=F09819&labelColor=1a1a2e)](https://github.com/Miguel-de-Andrade)
-
 [![Stars](https://img.shields.io/github/stars/Miguel-de-Andrade?style=for-the-badge&color=FF512F&labelColor=1a1a2e)](https://github.com/Miguel-de-Andrade)
 
 </div>
@@ -75,9 +60,7 @@ Utilizo o GitHub para organizar projetos acadêmicos, exercícios e estudos pess
 <div align="center">
 
 [![teste-versionamento](https://img.shields.io/badge/Teste%20Versionamento-FF512F?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Miguel-de-Andrade/teste-versionamento)
-
 [![Limiar Site](https://img.shields.io/badge/Limiar%20Site-F09819?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Miguel-de-Andrade/Limiar_Site)
-
 [![Exercícios Java](https://img.shields.io/badge/Exercícios%20Java-FFB800?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Miguel-de-Andrade/Exercicios-Java-Revisao)
 
 </div>
