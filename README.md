@@ -40,10 +40,10 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Miguel-de-Andrade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Miguel-de-Andrade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Miguel-de-Andrade&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Miguel-de-Andrade&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Miguel-de-Andrade&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
 
 </div>
 
@@ -74,10 +74,10 @@
 <div align="center">
 
 <a href="https://github.com/Miguel-de-Andrade/teste-versionamento">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Miguel-de-Andrade&repo=teste-versionamento&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Miguel-de-Andrade&repo=teste-versionamento&theme=tokyonight&hide_border=true"/>
 </a>
 <a href="https://github.com/Miguel-de-Andrade/Limiar_Site">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Miguel-de-Andrade&repo=Limiar_Site&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Miguel-de-Andrade&repo=Limiar_Site&theme=tokyonight&hide_border=true"/>
 </a>
 
 </div>
