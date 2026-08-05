@@ -36,34 +36,12 @@
 
 ---
 
-### Estatísticas do GitHub
+### Perfil no GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Miguel-de-Andrade&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Miguel-de-Andrade&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="165"/>
-
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Miguel-de-Andrade&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
-
-</div>
-
----
-
-### Troféus
-
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=Miguel-de-Andrade&theme=tokyonight&no-frame=true&row=1&column=6)
-
-</div>
-
----
-
-### Atividade recente
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Miguel-de-Andrade&theme=tokyo-night&hide_border=true)
+[![GitHub followers](https://img.shields.io/github/followers/Miguel-de-Andrade?style=for-the-badge&color=8E2DE2&labelColor=1a1a2e)](https://github.com/Miguel-de-Andrade)
+[![GitHub Repo Stars](https://img.shields.io/github/stars/Miguel-de-Andrade?style=for-the-badge&color=2E9EF7&labelColor=1a1a2e)](https://github.com/Miguel-de-Andrade)
 
 </div>
 
@@ -73,23 +51,16 @@
 
 <div align="center">
 
-<a href="https://github.com/Miguel-de-Andrade/teste-versionamento">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Miguel-de-Andrade&repo=teste-versionamento&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/Miguel-de-Andrade/Limiar_Site">
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=Miguel-de-Andrade&repo=Limiar_Site&theme=tokyonight&hide_border=true"/>
-</a>
+[![teste-versionamento](https://img.shields.io/badge/teste--versionamento-2E9EF7?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Miguel-de-Andrade/teste-versionamento)
+[![Limiar_Site](https://img.shields.io/badge/Limiar__Site-8E2DE2?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Miguel-de-Andrade/Limiar_Site)
+[![Exercicios-Java-Revisao](https://img.shields.io/badge/Exercicios--Java--Revisao-orange?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Miguel-de-Andrade/Exercicios-Java-Revisao)
+
+- **teste-versionamento** — estudo de Git e GitHub (commits, branches, push e merge)
+- **Limiar_Site** — site em HTML e CSS para a disciplina de Programação Web I
+- **Exercicios-Java-Revisao** — lista de revisão da disciplina de Programação de Algoritmos
 
 </div>
 
 ---
-
-<div align="center">
-
-![Snake animation](https://github.com/Miguel-de-Andrade/Miguel-de-Andrade/blob/output/github-contribution-grid-snake.svg)
-
-<sub>A cobrinha acima precisa de uma GitHub Action configurada — veja o passo a passo abaixo.</sub>
-
-</div>
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:8E2DE2,100:2E9EF7&height=120&section=footer)
