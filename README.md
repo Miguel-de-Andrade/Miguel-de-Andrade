@@ -55,23 +55,7 @@ Utilizo o GitHub para organizar projetos acadêmicos, exercícios e estudos pess
 
 ---
 
-## Projetos em destaque
 
-<div align="center">
-
-[![teste-versionamento](https://img.shields.io/badge/Teste%20Versionamento-FF512F?style=for-the-badge&logo=git&logoColor=white)](https://github.com/Miguel-de-Andrade/teste-versionamento)
-[![Limiar Site](https://img.shields.io/badge/Limiar%20Site-F09819?style=for-the-badge&logo=html5&logoColor=white)](https://github.com/Miguel-de-Andrade/Limiar_Site)
-[![Exercícios Java](https://img.shields.io/badge/Exercícios%20Java-FFB800?style=for-the-badge&logo=java&logoColor=white)](https://github.com/Miguel-de-Andrade/Exercicios-Java-Revisao)
-
-</div>
-
-| Projeto | Descrição |
-|---------|-----------|
-| **teste-versionamento** | Estudo de Git e GitHub utilizando commits, branches, merge e versionamento. |
-| **Limiar Site** | Site desenvolvido em HTML e CSS para a disciplina de Programação Web I. |
-| **Exercícios Java** | Lista de exercícios e revisões da disciplina de Programação de Algoritmos. |
-
----
 
 ## Contato
 
