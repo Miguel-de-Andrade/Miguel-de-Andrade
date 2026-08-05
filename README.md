@@ -1,6 +1,6 @@
 <div align="center">
 
-# Miguel de Andrade
+
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FF512F,100:F09819&height=220&section=header&text=Miguel%20de%20Andrade&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Estudante%20de%20Desenvolvimento%20de%20Sistemas&descAlignY=55&descSize=18)
 
