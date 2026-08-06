@@ -80,6 +80,6 @@ Utilizo o GitHub para organizar projetos acadêmicos, exercícios e estudos pess
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:0072FF,100:00C6FF&height=120&section=footer)
 
-<img src="https://raw.githubusercontent.com/Miguel-de-Andrade/Miguel-de-Andrade/output/github-contribution-grid-snake.svg" alt="cobrinha animada" />
+
 
 </div>
